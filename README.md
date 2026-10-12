@@ -33,9 +33,7 @@ MovieMate is a Python-based movie recommendation web application built with Stre
 
 ## 📸 Application Preview
 
-Add screenshots of your running application here.
 
-Save your screenshots in a folder named `screenshots` inside the project directory, then reference them below.
 
 ![MovieMate Home Page](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3aaa1107-10cf-4b15-a839-bdbab689de32" />
 )
