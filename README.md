@@ -1,4 +1,5 @@
 # 🎬 MovieMate — Movie Recommendation System
+project link: https://moviemate-movierecommendersystem-ejzfrntdcgwoq5uwjsfrbn.streamlit.app/
 
 **Discover your next favorite movie with MovieMate!**
 
@@ -88,7 +89,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-The application will open in your browser, usually at `http://localhost:8501`.
+
 
 ## 📦 Required Files
 
